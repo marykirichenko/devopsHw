@@ -1,0 +1,15 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "devops.js",
+  "scripts": {
+    "start": "node devops.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "curl": "^0.1.4"
+  }
+}
